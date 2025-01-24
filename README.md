@@ -1,3 +1,3 @@
 # protfolio webseite
-![Uploading image.png…]()
+portfolio.png
 
